@@ -24,6 +24,11 @@ permalink: /about/
 
 ---
 
+## 🎓 Education
+- **Halla University** — Bachelor of Science in Computer Engineering (ABEEK Accredited Program) (Mar 2017 ~ Feb 2024)
+
+---
+
 ## 🛠 Skills  
 
 **Language & Framework**  
