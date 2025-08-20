@@ -4,6 +4,7 @@ title: "리눅스 pwnrig 공격 대처"
 date: 2025-08-20 13:42:00 +0900
 categories: Linux
 ---
+리눅스 pwnrig 공격 대처 방법
 
 pwnrig란
 
