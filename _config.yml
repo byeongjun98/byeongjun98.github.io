@@ -29,9 +29,9 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: byeong98
-  card: summary
+#twitter:
+#  username: byeong98
+#  card: summary
 logo: logo.png
 social:
   name: ByeongJun Park
