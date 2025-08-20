@@ -4,40 +4,37 @@ title: About
 permalink: /about/
 ---
 
-<img src="logo.png">
-
+<img src="/profile.JPG" alt="Logo" width="250" />
+## Byeong Jun Park  
 ### Developer
-*Contact*
 
-Email: degea98@gmail.com
+📧 **Email:** [degea98@gmail.com](mailto:degea98@gmail.com)  
 
-# Byeong Jun Park
+---
 
+## 🧑‍💻 Profile
+데이터누리 연구소 데이터 플랫폼팀 연구원 (2023.07 ~ )  
 
-<aside>
- **Profile**
+- 국민건강 스마트관리 빅데이터 플랫폼 구축  
+- 데이터 유통·거래 기술 기반 **통합 데이터 지도 플랫폼** 개발  
+- 강릉시청 데이터 플랫폼 구축  
+- 기관공유 데이터 플랫폼 구축  
+- 안양시청 모니터링 및 수집 연계시스템 유지보수  
+- 국가 위기대응 디지털 지원체계 기반 지원사업 **Open API 중계 서비스** 개발
 
-데이터누리 연구소 데이터 플랫폼팀 연구원 (23.07 ~ )
+---
 
-- 국민건강 스마트관리 빅데이터 플랫폼 구축
-- 빅데이터 활용 및 데이터 전문가 확보에 어려움을 겪는 중소기업 및 공공기관을 위한 데이터의 유통·거래 기술 기반 "통합 데이터 지도 플랫폼" 개발
-- 강릉시청 데이터 플랫폼 구축
-- 기관공유 데이터 플랫폼 구축
-- 안양시청 모니터링 및 수집 연계시스템 유지보수
-- 국가 위기대응 디지털 지원체계 기반 지원사업 Open API 중계 서비스
+## 🛠 Skills  
 
- **Skill**
- 
- *Language & Framework*
- - JAVA / Spring / Spring-boot - 초급
- - Node.js - 초급
- - Python - 초초급
+**Language & Framework**  
+- JAVA / Spring / Spring Boot *(초급)*  
+- Node.js *(초급)*  
+- Python *(입문)*  
 
- *DBMS*
- - PostgreSQL
+**DBMS**  
+- PostgreSQL  
 
- *OS*
- - RHEL
- - Ubuntu
- - Mac
-</aside>
+**OS**  
+- RHEL  
+- Ubuntu  
+- macOS  
