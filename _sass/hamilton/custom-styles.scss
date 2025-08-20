@@ -1,1 +1,31 @@
 // Placeholder to allow customizing styles.
+
+// Custom styles for the post list on the homepage
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+}
+
+.post-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.5rem;
+}
+
+.post-date {
+  font-size: 0.8rem;
+  color: #828282;
+  flex-shrink: 0;
+  margin-left: 1rem;
+}
+
+.post > p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.post:not(:last-child) {
+  margin-bottom: 2rem;
+}
