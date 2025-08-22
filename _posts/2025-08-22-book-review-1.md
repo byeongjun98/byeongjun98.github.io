@@ -2,7 +2,7 @@
 layout: post
 title: "'돈은 좋지만 재테크는 겁나는 너에게' 독후감..?"
 date: 2025-08-22 15:40:00 +0900
-categories: Book Review
+categories: Book_Review
 ---
 
 '돈은 좋지만 재테크는 겁나는 너에게' 라는 책을 읽고 정리한 내용
