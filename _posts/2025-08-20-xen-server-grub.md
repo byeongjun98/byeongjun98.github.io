@@ -22,7 +22,7 @@ xen server (Xcp-ng Center) vm Grub 복구
 ### 3. Rescue 옵션 선택
 
 - 
-    1. Continue (read-write로 마운트)
+    Continue (read-write로 마운트)
 - 메시지:
     
     ```
